@@ -1,0 +1,14 @@
+#!name=115离线 
+#!desc= iOS 与 iPadOS 客户端实现 115 网盘可以离线磁力链接
+
+
+[Script]
+http-response ^http:\/\/115\.com\/lx.*$ script-path=https://raw.githubusercontent.com/ikanam/Surge-Scripts/master/115lx.js, requires-body=true
+http-response ^https?:\/\/webapi\.115\.com\/user\/check_sign.*$ script-path=https://raw.githubusercontent.com/ikanam/Surge-Scripts/master/115lx.js, requires-body=true
+
+[MITM]
+hostname = *.115.com
+
+[URL Rewrite]
+^http:\/\/115\.com\/\?ct=sign$ http://115.com/lx?taskdg=1 header
+（将首页的签到按钮跳转重定向到离线下载页面)
