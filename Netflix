@@ -1,5 +1,6 @@
 # Netflix
 USER-AGENT,Argo*
+DOMAIN-SUFFIX,nflxvideo.net
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
@@ -7,4 +8,4 @@ DOMAIN-SUFFIX,nflxext.com
 DOMAIN-SUFFIX,nflximg.com
 DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxso.net
-DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN,dualstack.apiproxy-http1-873404929.us-west-2.elb.amazonaws.com
