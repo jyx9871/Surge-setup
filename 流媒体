@@ -9,3 +9,8 @@ DOMAIN-SUFFIX,nflximg.com
 DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN,dualstack.apiproxy-http1-873404929.us-west-2.elb.amazonaws.com
+
+#HBO
+DOMAIN-SUFFIX,cdn.hbomax.com
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,bugsnag.com
