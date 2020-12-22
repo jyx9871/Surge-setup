@@ -77,27 +77,9 @@ IP-CIDR6,2001:b28:f23f::/48,no-resolve
 ##LaunchBar
 DOMAIN-SUFFIX,obdev.at
 
-##Other
-DOMAIN-SUFFIX,1password.com
-DOMAIN-SUFFIX,adguard.org
-DOMAIN-SUFFIX,bit.no.com
-DOMAIN-SUFFIX,btlibrary.me
-DOMAIN-SUFFIX,cccat.io
-DOMAIN-SUFFIX,cloudcone.com
-DOMAIN-SUFFIX,dubox.com
-DOMAIN-SUFFIX,gameloft.com
-DOMAIN-SUFFIX,garena.com
-DOMAIN-SUFFIX,inoreader.com
-DOMAIN-SUFFIX,ip138.com
-DOMAIN-SUFFIX,ping.pe
-DOMAIN-SUFFIX,reddit.com
-DOMAIN-SUFFIX,teddysun.com
-DOMAIN-SUFFIX,tumbex.com
-DOMAIN-SUFFIX,twdvd.com
-DOMAIN-SUFFIX,unsplash.com
-DOMAIN-SUFFIX,xn--i2ru8q2qg.com
-DOMAIN-SUFFIX,yunpanjingling.com
-
+##字幕
+DOMAIN,www.zimuku.la
+DOMAIN,zmk.pw
 
 # Porn
 DOMAIN-KEYWORD,porn
@@ -148,6 +130,27 @@ DOMAIN-SUFFIX,wikisource.org
 DOMAIN-SUFFIX,wikiversity.org
 DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wiktionary.org
+
+##Other
+DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,adguard.org
+DOMAIN-SUFFIX,bit.no.com
+DOMAIN-SUFFIX,btlibrary.me
+DOMAIN-SUFFIX,cccat.io
+DOMAIN-SUFFIX,cloudcone.com
+DOMAIN-SUFFIX,dubox.com
+DOMAIN-SUFFIX,gameloft.com
+DOMAIN-SUFFIX,garena.com
+DOMAIN-SUFFIX,inoreader.com
+DOMAIN-SUFFIX,ip138.com
+DOMAIN-SUFFIX,ping.pe
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,teddysun.com
+DOMAIN-SUFFIX,tumbex.com
+DOMAIN-SUFFIX,twdvd.com
+DOMAIN-SUFFIX,unsplash.com
+DOMAIN-SUFFIX,xn--i2ru8q2qg.com
+DOMAIN-SUFFIX,yunpanjingling.com
 
 
 # 国外域名
