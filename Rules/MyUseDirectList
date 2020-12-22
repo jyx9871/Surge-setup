@@ -1,5 +1,5 @@
 #自用直连规则列表
 
-DOMAIN,p49-keyvalueservice.icloud.com.cn// 修复开代理百度搜索慢的问题
+DOMAIN,p49-keyvalueservice.icloud.com.cn // 修复开代理百度搜索慢的问题
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,bdstatic.com
