@@ -2,6 +2,6 @@
 
 ##修复开代理百度搜索慢的问题
 DOMAIN,p49-keyvalueservice.icloud.com.cn
-
+DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,bdstatic.com
