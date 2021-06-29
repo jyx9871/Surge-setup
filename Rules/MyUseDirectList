@@ -1,0 +1,12 @@
+#自用直连规则列表
+
+DOMAIN-SUFFIX,cn
+##修复开代理百度搜索慢的问题
+DOMAIN,p49-keyvalueservice.icloud.com.cn
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,bdstatic.com
+##什么值得买
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,zdmimg.com
+DOMAIN-SUFFIX,smzdm.com
